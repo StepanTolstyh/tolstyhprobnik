@@ -1,0 +1,24 @@
+{
+  "Mitems": [
+    {
+      "name": "Диоген",
+      "artikul": "b3",
+      "price": "32",
+      "proizvoditel": "выа",
+      "categoriya": "Техника",
+      "weight": "12.2",
+      "amount": "43",
+      "id": 12
+    },
+    {
+      "name": "asd",
+      "artikul": "ит",
+      "price": "12",
+      "proizvoditel": "это чо такое",
+      "categoriya": "Телефоны",
+      "weight": "12.2",
+      "amount": "1",
+      "id": 13
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+#table {
+    font-family: Courier New, monospace;
+    border-collapse: collapse;
+    width: 100%;
+    }
+    
+    #table td, #table th {
+    border: 2px solid #aaa;
+    padding: 10px;
+    }
+    
+    #table tr:nth-child(even){background-color: hsl(0, 0%, 95%);}
+    
+    #table tr:hover {background-color: hsl(0, 0%, 87%);}
+    
+    #table th {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: left;
+    background-color: #240447;
+    color: rgb(143, 222, 236);
+    }
